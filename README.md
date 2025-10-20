@@ -1,1 +1,1 @@
-# whispem-data
+Learning log & small data storytelling experiments
